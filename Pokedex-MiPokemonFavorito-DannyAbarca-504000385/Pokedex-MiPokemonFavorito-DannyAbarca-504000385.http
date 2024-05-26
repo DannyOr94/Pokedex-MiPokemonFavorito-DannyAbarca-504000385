@@ -1,0 +1,6 @@
+@Pokedex_MiPokemonFavorito_DannyAbarca_504000385_HostAddress = http://localhost:5217
+
+GET {{Pokedex_MiPokemonFavorito_DannyAbarca_504000385_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
